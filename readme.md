@@ -28,7 +28,7 @@
   <a href="https://www.instagram.com/a__m__a__n__/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="amanavi75@gmail.com" target="_blank">
+  <a href="https://myaccount.google.com/u/1/?hl=en_GB&utm_source=OGB&utm_medium=act" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/aman-avi-2759241b6" target="_blank">
@@ -40,7 +40,7 @@
   <a href="https://www.hackerrank.com/amanavi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="aman.12012269@lpu.in" target="_blank">
+  <a href="https://myaccount.microsoft.com/?ref=MeControl&login_hint=aman.12013369%40lpu.in&tid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
