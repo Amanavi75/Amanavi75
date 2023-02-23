@@ -58,7 +58,7 @@
 ###
 
 <div align="center">
-  <img height="237" src="https://images.pexels.com/photos/1606386/pexels-photo-1606386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+  <img height="500" src="https://images.pexels.com/photos/1606386/pexels-photo-1606386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
 </div>
 
 ###
