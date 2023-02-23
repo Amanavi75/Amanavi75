@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"  />
+<img align="right" height="209" src="https://th.bing.com/th/id/R.74b97fc94c3fb519384461a3046e2e4a?rik=c6olcDfQ4uRo6g&riu=http%3a%2f%2fbestanimations.com%2fMusic%2fDancers%2fanime-dancing-girls%2fanime-dancing-girl-16.gif&ehk=bzC%2b108Wxga30TrCcsQBMb6A5AX9SZhkTKDf9SvT0aU%3d&risl=&pid=ImgRaw&r=0"  />
 
 ###
 
@@ -57,8 +57,12 @@
 
 ###
 
+<img align="left" height="240" src="https://www.volusion.com/assets/images/custom-coding.png"  />
+
+###
+
 <div align="center">
-  <img height="500" src="https://images.pexels.com/photos/1606386/pexels-photo-1606386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+  <img height="200" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png"  />
 </div>
 
 ###
