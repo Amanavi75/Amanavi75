@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aman Avi ... and I'm a passionate Coder , from Sitamarhi Bihar ....</h2>
+<h3 align="left">Hi 👋! My name is Aman Avi ... and I'm a passionate Coder , from Bihar ....</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"  />
 
 ###
 
@@ -39,8 +39,20 @@
   <a href="https://www.hackerrank.com/amanavi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="aman.12012269@lpu.in" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/amanavi75/count.svg?"  />
+</div>
+
+###
+
+<h3 align="left">Absolute coding at its finest</h3>
 
 ###
 
