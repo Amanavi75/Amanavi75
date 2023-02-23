@@ -19,6 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
 </div>
 
 ###
@@ -52,12 +53,12 @@
 
 ###
 
-<h3 align="left">Absolute coding at its finest</h3>
+<h4 align="left">🪢 Hey! guys i am a 3rd year student , currently pursuing Btech Cse in Lovely proffesional university .<br><br>✍🏽currently i am learning reactjs , wordpress and data analysis using tableau desktop and R programming <br><br>✌🏽I am good at initiating new ideas and also in driving those ideas.</h4>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amanavi75/amanavi75/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="237" src="https://images.pexels.com/photos/1606386/pexels-photo-1606386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  />
+</div>
 
 ###
