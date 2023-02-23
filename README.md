@@ -1,33 +1,43 @@
-<h1 align="center">Hi 👋, I'm Aman avi</h1>
-<h3 align="center">A passionate beginner from India</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanavi75&label=Profile%20views&color=0e75b6&style=flat" alt="amanavi75" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanavi75" alt="amanavi75" /></a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Amanavi75" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Amanavi75" height="150" alt="languages graph"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/amanavi1244" target="blank"><img src="https://img.shields.io/twitter/follow/amanavi1244?logo=twitter&style=for-the-badge" alt="amanavi1244" /></a> </p>
+###
 
-- 🌱 I’m currently learning **java,DSA,python**
+<img align="right" height="150" src="https://www.bing.com/images/search?view=detailV2&ccid=nOhGSkOV&id=5D8776AC22A46AD178385B29FB66FF71D558D18A&thid=OIP.nOhGSkOV-SpFPuFHpBjzlwHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.9ce8464a4395f92a453ee147a418f397%3frik%3ditFY1XH%252fZvspWw%26riu%3dhttp%253a%252f%252fgetwallpapers.com%252fwallpaper%252ffull%252f7%252fe%252f6%252f981848-anime-boy-wallpaper-2560x1600-photo.jpg%26ehk%3dJp7GvlBo2e88m%252bCmeOnum8sp85IjyPFBmaH0pTNF8o8%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1600&expw=2560&q=Anime+Images+Boy+HD&simid=608035793256997799&FORM=IRPRST&ck=58D5C2662FDB8E43624A637CA8AB0151&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0"  />
 
-- 📫 How to reach me **amanavi75@gmail.com**
+###
 
-- ⚡ Fun fact **Living in a fantasy world with unrealistic expectation**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amanavi1244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amanavi1244" height="30" width="40" /></a>
-<a href="https://fb.com/aman avi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aman avi" height="30" width="40" /></a>
-<a href="https://instagram.com/a__m__a__n__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a__m__a__n__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@amanavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@amanavi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amanavi75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanavi75" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amanavi75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="amanavi75" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanavi75&show_icons=true&locale=en&layout=compact" alt="amanavi75" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanavi75&show_icons=true&locale=en" alt="amanavi75" /></p>
+<br clear="both">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanavi75&" alt="amanavi75" /></p>
+<img src="https://raw.githubusercontent.com/Amanavi75/Amanavi75/blob/output/snake.svg" alt="Snake animation" />
+
+###
