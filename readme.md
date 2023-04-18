@@ -1,6 +1,5 @@
-<p align="center"><a href="https://Amanavi75.github.io"><img width="80%" alt="Hello, I'm Aman. a passionate coder!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
+<h3 align="left">Hi 👋!aman avi
+A passionate coder </h3>
 
 ###
 
