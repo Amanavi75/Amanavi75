@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=Amanavi75&count_private=true&theme=tokyonight&showicons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanavi75&langs_count=5&theme=tokyonight&showicons=true" height="150" alt="stats graph""  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanavi75&langs_count=5&theme=tokyonight&showicons=true" height="200" alt="stats graph""  />
 </div>
 
 ###
