@@ -1,4 +1,6 @@
-<h3 align="left">Hi 👋! A very warm welcome to you!</h3>
+<p align="center"><a href="https://Amanavi75.github.io"><img width="80%" alt="Hello, I'm Aman. a passionate coder!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 
 ###
 
