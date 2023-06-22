@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! This is Aman avi ,A passionate coder </h3>
+<h3 align="left">Hi 👋! This is Aman avi </h3>
 
 ###
 
