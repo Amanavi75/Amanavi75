@@ -56,7 +56,7 @@
 
 ###
 
-<h4 align="left">🪢 Hey! guys i am a 3rd year student , currently pursuing Btech Cse in Lovely proffesional university .<br><br>✍🏽currently i am learning reactjs , wordpress and data analysis using tableau desktop and R programming <br><br>✌🏽I am good at initiating new ideas and also in driving those ideas.</h4>
+<h4 align="left">🪢 Hey! guys i am a final year student , currently pursuing Btech Cse in Lovely proffesional university .<br><br>✍🏽currently i am learning reactjs , wordpress and data analysis using tableau desktop and R programming <br><br>✌🏽I am good at initiating new ideas and also in driving those ideas.</h4>
 
 ###
 
