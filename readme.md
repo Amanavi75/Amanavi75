@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  <img align="left" height="250" src="https://images.app.goo.gl/2kun2TtZEFvE2wF7A"  />
-
+  <img align="left"  src="https://images.app.goo.gl/2kun2TtZEFvE2wF7A"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanavi75&langs_count=5&theme=tokyonight&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3"  />
 </div>
 
