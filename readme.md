@@ -1,9 +1,9 @@
-<h3 align="left">Hi 👋! This is Aman avi </h3>
+![image](https://github.com/Amanavi75/Amanavi75/assets/73480406/b2b2e267-7f13-405b-8935-e05f3e63777e)<h3 align="left">Hi 👋! This is Aman avi </h3>
 
 ###
 
 <div align="center">
-  <img src="https://i.gifer.com/TIbw.gif" />
+  <img src="https://images.app.goo.gl/BmokU5BPfHGijhvv7" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanavi75&langs_count=5&theme=tokyonight&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3"  />
 </div>
 
