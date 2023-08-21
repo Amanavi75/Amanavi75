@@ -1,4 +1,4 @@
-![image](https://github.com/Amanavi75/Amanavi75/assets/73480406/b2b2e267-7f13-405b-8935-e05f3e63777e)<h3 align="left">Hi 👋! This is Aman avi </h3>
+<h3 align="left">Hi 👋! This is Aman avi </h3>
 
 ###
 
