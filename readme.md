@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanavi75&langs_count=5&theme=tokyonight&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3"  />
 </div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Amanavi75&langs_count=5&theme=tokyonight&show_icons=true&border_color=61ff81&bg_color=45,141414,202020,1b4b25&gradient_animation=true&title_color=ffffff&icon_color=61ff81&text_color=b3b3b3"/>
-
-
 ###
 
 <img align="right" height="209" src="https://th.bing.com/th/id/R.74b97fc94c3fb519384461a3046e2e4a?rik=c6olcDfQ4uRo6g&riu=http%3a%2f%2fbestanimations.com%2fMusic%2fDancers%2fanime-dancing-girls%2fanime-dancing-girl-16.gif&ehk=bzC%2b108Wxga30TrCcsQBMb6A5AX9SZhkTKDf9SvT0aU%3d&risl=&pid=ImgRaw&r=0"  />
