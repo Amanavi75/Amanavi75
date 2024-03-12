@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="github logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/scala/scala-original.svg" height="30" width="42" alt="scala logo"  />
 </div>
 
 ###
